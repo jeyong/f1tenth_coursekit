@@ -5,7 +5,7 @@ Lecture 12 - Modern SLAM: Cartographer
 =========================================
 
 **Overview:** 
-	This final lecture in the Mapping & Localization Module goes over how modern day SLAM is used in google cartographer. We go over what is google cartographer, its frontend and backend, and how to install and use it. This method is important because it reduces the computation requirements of computing loop closure constraints as compared to the basic scan matching algorithms.
+	마지막 강의는 Mapping & Localization 모듈은 google cartographer에서 최신 SLAM을 어떻게 사용하는지에 대해서 알아본다. google cartographer가 무엇인지 어떻게 설치하는지 알아보자. 이 방법은 기본 scan matching 알고리즘에 비해서 loop closure constraints 계산을 줄일 수 있어서 중요하다.
 
 **Topics Covered:**
 	- 	Google cartographer
@@ -24,7 +24,7 @@ Lecture 12 - Modern SLAM: Cartographer
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-**Links to additional resources:**
+**추가 자료:**
 	- `Google Cartographer <https://google-cartographer.readthedocs.io/en/latest/>`_
 	- `Efficient Sparse Pose Adjustment for 2D Mapping <http://ais.informatik.uni-freiburg.de/publications/papers/konolige10iros.pdf>`_
 	- `A Tutorial on Graph-Based SLAM <http://www2.informatik.uni-freiburg.de/~stachnis/pdf/grisetti10titsmag.pdf>`_

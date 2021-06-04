@@ -1,6 +1,6 @@
 .. _doc_getting_started:
 
-Start Here!
+여기서부터 시작!
 ================
 .. raw:: html
 	
@@ -10,7 +10,7 @@ Start Here!
 	
 	<br>
 	<br>
-There is enough material for a full semester course, however if you have a limited amount of time, here are some suggestions:
+한하기 과정으로 충분한다. 만약 시간이 부족하다면 다음과 같이 진행하는 것을 추천한다:
 
 #. **4 Weeks** - Go through :ref:`Module A <doc_moduleA>` and :ref:`Module B <doc_moduleB>` and complete :ref:`Lab 1 <doc_lab1>`, :ref:`Lab 2 <doc_lab2>`, :ref:`Lab 3 <doc_lab3>`, and :ref:`Lab 4 <doc_lab4>`. This will be enough to get your vehicle race ready.
 
@@ -19,9 +19,9 @@ There is enough material for a full semester course, however if you have a limit
 #. **15 Weeks (~ 1 Semester)** - Go through all of the :ref:`Lectures <doc_lecture_intro>` and complete all of the :ref:`Labs <doc_labs_intro>`. This is the most comprehensive learning experience.
 
 
-This documentation page does not contain any build or software instructions. See the `Build Page <http://f1tenth.org/build.html>`_ for that information.
+이 문서에는 만들기나 SW관련 지시 내용은 포함하고 있지 않다. `Build Page <http://f1tenth.org/build.html>`_ 를 참조하라.
 
-If you are looking for the old build/code page, you can find it `here <https://f1tenth.github.io/build-old.html>`_. Please note that we no longer support any of this material and the majority of the content is outdated.
+예전 만들기 자료는 `here <https://f1tenth.github.io/build-old.html>`_ 를 참고하라. 예전 자료는 더 이상 지원하지 않는다.
 
 .. image:: img/gs_02.gif
   :align: center

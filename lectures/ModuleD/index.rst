@@ -3,7 +3,7 @@
 
 Module D: Planning
 =======================================
-This fourth module goes over different motion planning methods and ends with :ref:`Race 2 <doc_race2>`. 
+네번째 모듈은 여러 motion planning 방식에 대해서 알아보고 마지막으로 :ref:`Race 2 <doc_race2>` 를 해본다.
 
 
 .. toctree::

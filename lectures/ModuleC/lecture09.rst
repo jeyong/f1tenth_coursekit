@@ -5,15 +5,15 @@ Lecture 9 - Scan Matching I
 =============================================
 
 **Overview:** 
-	This lecture is part one of three localization lectures. We'll learn how to determine the state (position and orietnation) of a robot with respect to its environment. The F1TENTH vehicle uses range measurements from the lidar to localize. The iterative closest point algorithm and fast correspondence search are explained. At the end of the lecture, there is an overview of Lab 5.
+	이 장은 3개 localization 강의 중에 하나다. 환경에 따라서 robot의 state를 결정하는 방법에 대해서 배워보자. 차량은 lidar를 이용해서 localize에 필요한 거리를 측정한다. iterative closest point 알고리즘과 fast correspondence search에 대해서 설명한다. 마지막 장은 Lab 5의 개요이다.
 
-**Topics Covered:**
+**다루는 주제:**
 	-	Localization/SLAM
 	- 	Scan Matching
 	-	Iterative Closest Point
 	-	Fast Correspondence Search
 
-**Associated Assignment:** 
+**과제:** 
 	* :ref:`Lab 5: Scan Matching <doc_lab5>`
 
 **Slides:**
@@ -29,6 +29,6 @@ Lecture 9 - Scan Matching I
 
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Links to additional resources:**
+**추가 자료:**
 	- `An ICP variant using a point-to-line metric <https://censi.science/pub/research/2008-icra-plicp.pdf>`_
 	- `Convex Optimization course <https://see.stanford.edu/Course/EE364A>`_

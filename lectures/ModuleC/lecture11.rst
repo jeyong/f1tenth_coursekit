@@ -4,10 +4,10 @@
 Lecture 11 - Particle Filters
 =============================================
 
-**Overview:** 
-	This is the third installment in the Localization lectures. Given inputs of laser scan data, a control input, and a map, we want to output a pose and some "particles". This lecture is divided into three parts: 1) going over the particle filter localization algorithm, 2) tuning the alrogithm, and 3) additional resources and a hands on tutorial. Expect a dense but extremely informative lecture.
+**개요:** 
+	Localization 강의에서 3번째. laser scan data, control input, map에 대한 입력이 주어지면 출력으로 pose와 particles를 얻어야 한다. 이 강의는 3개의 부분으로 나뉜다.: 1) particle filter localization 알고리즘 2) 튜닝 알고리즘 3) 추가 자료 및 실습하기. 좀 어렵긴하지만 아주 유영한 강의이다.
 
-**Topics Covered:**
+**다루는 주제:**
 	-	Particle filters
 
 **Slides:**
@@ -24,7 +24,7 @@ Lecture 11 - Particle Filters
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-**Links to additional resources:**
+**추가 자료:**
 	- `S. Thrun, W. Burgard. “Probabilistic Robotics.” Chapter 4 and Chapter 8. <http://www.probabilistic-robotics.org/>`_
 	- `S. Thrun. “Artificial Intelligence for Robotics, Lesson 3.” Udacity. <https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373>`_
 	- `S. Thrun, D. Fox, W. Burgard and F. Dellaert. “Robust Monte Carlo Localization for Mobile Robots.”​ Artificial Intelligence Journal. 2001. <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.71.6016&rep=rep1&type=pdf>`_

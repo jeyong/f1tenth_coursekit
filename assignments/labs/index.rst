@@ -4,12 +4,12 @@
 Labs
 ==================
 
-Labs are where most of the learning occurs. This is when students have the chance to take what they learned in lecture and apply it to a given problem. There are 8 labs total. Students have 1 to 1.5 week depending on the lab to complete the assignment.
+실습에서 가장 학습이 많이 일어난다. 강의에서 배운 것을 직접 적용해본다. 전체 8개 실습이 있다. 과제는 보통 1 ~ 1.5 주에 완료할 수 있다.
 
 .. note:: 
-	All the code for the labs can be found on the `F1TENTH_labs Github Repository <https://github.com/f1tenth/f1tenth_labs>`_. Each lab folder contains the the latex source file for the handout, latex student solution template, and any skeleton codes required. 
+	실습에 관련된 모든 코드는 `F1TENTH_labs Github Repository <https://github.com/f1tenth/f1tenth_labs>`_ 를 참고하라. 각 lab 폴더는 실습할 내용에 대해서 latex 소스 파일, 뼈대가 되는 코드를 포함하고 있다.
 
-Labs 1-4 are **INDIVIDUAL** assignments and Labs 5-9 are **GROUP** assignments. Students should be placed in teams of 4 ideally with members that have different skill sets.
+Labs 1-4는 **개별** 과제이고 Labs 5-9은 **그룹** 과제이다. 4명이 한팀이 되어서 진행한다.
 
 **Tip:** Set up a `Piazza page <https://piazza.com/>`_ for the class so students can ask questions freely.
 

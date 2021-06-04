@@ -1,21 +1,21 @@
 .. _doc_syllabus:
 
 
-Syllabus
+강의 개요
 ==================
-This is a semester long course. However, you can modify it to fit a quarter system or less by simply picking and choosing from the set of lectures and topics.
+한학기 과정이지만 강의의 주제를 잘 고르면 1/4로 정도로 맞춰서 진행할 수 있다.
 
-There are 4 main components of this course:
+이 과정의 4개 주요 컴포넌트:
 
-#. **Lectures:** The course is taught in a "clab" style (classroom + lab). Classes are held twice a week, each session is 80 minutes long (60 minutes lecture + 20 minutes tutorial/lab work). Note that some lectures are shorter than others. If taught in the traditional lecture and lab settings, it would be 2 hours of lectures a week + a 3 hour lab.
+#. **강의:** 이 과정은 수업과 실습으로 구성된다. 수업은 1주일에 2번 진행되며 각 세선은 80분이다.(60분 강의 + 20분 튜터리얼/실습) 일부 강의는 이보다 짧은 것도 있다. 기존 방식으로 가르친다면 1주일에 2시간 까지 강의와 3시간 실습이 될 수 있다.
 
-#. **Labs** are completed outside of class time. This is where students apply concepts learn in lecture.
+#. **Labs** 수업과 완전히 구별된다. 수업에서 배운 개념을 적용해 본다.
 
-#. **Races:** There are :ref:`3 races <doc_races>`, each testing the students' application of different components of the class.
+#. **Races:** :ref:`3 races <doc_races>` 가 있다. 각각은 수업의 학생들이 얼마나 적용하는지를 테스트해 보는 것이다.
 
-#. **Final Project:** The final project gives students an opportunity to propose a problem and try to solve it using the F1TENTH Autonomous Vehicle System.
+#. **Final Project:** 최종 프로젝트는 문제를 제시하고 자율주행 시스템으로 이를 해결하는 것이다.
 
-Students should be grouped in teams of 3-4 with each member carrying different skills. Team formation occurs in :ref:`Lecture 5 <doc_lecture05>`.
+팀은 3-4명으로 구성되며 각 멤버는 다른 기술을 가지고 있어야 한다. 팀 구성은 :ref:`Lecture 5 <doc_lecture05>` 에서 진행한다.
 
 
 | `F1TENTH Syllabus <https://docs.google.com/spreadsheets/d/1oIPbtpjWKTG4nbD8yKZgBv3jb8zLKMQ8hOJTNqJrn-4/edit?usp=sharing>`_

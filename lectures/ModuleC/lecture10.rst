@@ -5,9 +5,9 @@ Lecture 10 - Scan Matching II
 ===========================================================================
 
 **Overview:** 
-	We continue the lecture on localization. In this lecture, Fast Correspondence Search is explained more in depth.
+	이번 장은 localization에 대한 이어지는 강의로 Fast Correspondence Search에 대해서 보다 상세히 알아보자.
 
-**Topics Covered:**
+**다루는 주제:**
 	-	Fast Correspondence Search
 
 **Slides:**
@@ -24,6 +24,6 @@ Lecture 10 - Scan Matching II
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-**Links to additional resources:**
+**추가 자료:**
 	- `An ICP variant using a point-to-line metric <https://censi.science/pub/research/2008-icra-plicp.pdf>`_
 	- `Convex Optimization course <https://see.stanford.edu/Course/EE364A>`_

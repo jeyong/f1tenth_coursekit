@@ -5,7 +5,7 @@ Lecture 20 - Raceline Optimization
 =====================================
 
 **Overview:** 
-	This lecture goes over raceline optimization. For a given track, how do we parametrize, evaluate, and optimize a raceline?
+	이 강의에서는 raceline optimization이다. track이 주어지면 raceline을 파라미터화, evaluate, 최적화시킬까?
 
 **Topics Covered:**
 	-	Splines and trajectories
@@ -28,7 +28,7 @@ Lecture 20 - Raceline Optimization
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-**Links to additional resources:**
+**관련 주제:**
 	- `Convex Optimization Course <https://see.stanford.edu/Course/EE364A>`_
 	- `A Visual Guide to Evolution Strategies <http://blog.otoro.net/2017/10/29/visual-evolution-strategies/>`_
 	- `Minimum-time speed optimisation over a fixed path <https://web.stanford.edu/~boyd/papers/pdf/speed_opt.pdf>`_

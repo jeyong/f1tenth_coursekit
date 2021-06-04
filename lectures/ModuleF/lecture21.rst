@@ -5,7 +5,7 @@ Lecture 21 - Model Predictive Control
 =========================================
 
 **Overview:** 
-	This lecture is goes over model predictive control (MPC). MPC is a model that predicts future state. The linear version of MPC uses a linearized bicycle model to model the F1TENTH vehicle. The nonlinear version is more complex and takes into account more variables and parameters. 
+	이 강의에서는 model predictive conrol(MCP)를 다룬다. MPC는 미래 state를 예측하는 모델이다. MPC의 linear 버전은 차량의 모델을 위해서 linearized bicycle model을 사용한다. nonlinear 버전은 더 복잡하고 더 다양한 변수와 파라미터를 고려해야한다.
 
 **Topics Covered:**
 	-	Linear MPC
@@ -25,5 +25,5 @@ Lecture 21 - Model Predictive Control
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-**Links to additional resources:**
+**관련 주제:**
 	- `Motion Planning in Urban Environments <https://courses.cs.washington.edu/courses/cse571/16au/slides/Ferguson_et_al-2008-Journal_of_Field_Robotics.pdf>`_

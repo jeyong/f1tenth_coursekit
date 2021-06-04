@@ -12,31 +12,26 @@ Introduction
 	<br>
 	<br>
 
-F1TENTH is a fun, fast-paced, and flexible course that teaches the foundations of **Autonomy**: 
+F1TENTH은 자율주행의 기초를 배울수 있는 과정이다.
 
 	* Perception
 	* Planning
 	* Control
 	* Analytic skills to recognize and reason about situations with moral content in the design of autonomous systems
 
-This course is an integration of the concepts above and is not intended to be a beginner course in any of the above subjects. As of right now, the contents on this website are best suited for the graduate-level if not at the very least an undergraduate senior-level course.
+이 과정은 위의 개념을 통합하며 초보자를 위한 과정은 아니다. 이 웹에 있는 내용은 졸업자 수준에 최적화 되어 있으며 최소한 4학년 정도 수준은 되어야 한다.
 
-**What this course is not:**
-	* Mechatronics
+**이 과정에서 다루지 않는 내용:**
+	* 매카트로닉스
 	* Deep learning
 	* A replacement for the semester long graduate courses in the topics we cover
 	* Easy
 
-**Prequisites:**
-	* Basic knowledge of Linux
-	* Optimization theory
-	* Programming skills (preferably C++ or Python)
+**사전 요구사항:**
+	* Linux의 기본 지식
+	* 최적화 이론
+	* 프로그래밍 스킬 (C++ 우선 or Python)
 
-.. centered:: Join in the discussion with us on Slack! This is a Slack workspace that is specific to educators, collaborators, and organizers. 
-
-.. image:: img/add-to-slack.png
-   :target: https://join.slack.com/t/f1tenth-teams/shared_invite/enQtMzc3ODU2ODM1NzE3LTBjMmVkMzZjZTJiNWUzZDFhZTJiODgzMjg0MTA1MDAxZTUxMzkwMDRhNTM2NzdjNDc5MTk5YTc5YmNhNTdhMTUs
-   :align: center
 
 **Overview:**
 

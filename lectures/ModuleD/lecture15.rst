@@ -4,7 +4,7 @@
 Lecture 15 - Race Prep
 ===================================
 
-This lecture is open office hours in preparation for the second race.
+두번째 레이싱을 위한 준비
 
 .. image:: img/car02.gif
 	:align: center

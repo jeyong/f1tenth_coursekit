@@ -5,4 +5,4 @@ Lecture 26 - Project Demos
 ======================================================
 
 **Overview:** 
-	Teams have the opportunity to present their final project. The demo format is up to each team. Some ideas are live demo, videos, powerpoint presentations, etc. The teaching team should be mindful of time and allocate time for each team beforehand. (E.g. For an 80 minute lecture time and 4 teams, each team is allowed 15 minutes presentation and 3 minutes Q&A. 2 minutes are used to transition to the next team)
+	팀들은 자신의 최종 프로젝트에 대해서 프리젠테이션한다. 데모 형식은 팀이 결정한다. 라이브 데모, 비디오, 파워포인트 등.

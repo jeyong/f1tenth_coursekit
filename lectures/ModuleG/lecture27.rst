@@ -4,4 +4,4 @@
 Lecture 27 - Race Prep
 =========================================================
 
-This lecture is open office hours in preparation for the final race.
+최종 레이싱 대회를 위한 준비

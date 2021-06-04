@@ -3,7 +3,7 @@
 
 Module C: Mapping & Localization
 ========================================
-This third module goes over mapping and localization.
+세번째 모듈에서는 mapping과 localization에 대해서 알아보자.
 
 .. toctree::
    :maxdepth: 1

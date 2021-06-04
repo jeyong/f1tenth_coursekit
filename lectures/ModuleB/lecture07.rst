@@ -4,7 +4,7 @@
 Lecture 7 - Race Prep
 =============================================
 
-This lecture is open office hours in preparation for the first race.
+처음 레이싱을 위한 준비
 
 .. image:: img/car02.gif
 	:align: center
@@ -12,11 +12,11 @@ This lecture is open office hours in preparation for the first race.
 
 ..
 	**Overview:** 
-		This lecture is more of a short tutorial than a traditional lecture. You will learn how to install the use the simulator on your machine. 
+		간단한 강의로 PC에 시뮬레이터를 설치하고 사용하는 방법에 대해서 알아보자.
 
-	**Topics Covered:**
-		-	Why use a simulator?
-		-	How to install and use the F1TENTH simulator
+	**다루는 주제:**
+	-	시뮬레이터를 사용하는 이유?
+	-	시뮬레이터 설치 및 사용 방법
 
 	**Slides:**
 
@@ -31,5 +31,5 @@ This lecture is open office hours in preparation for the first race.
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-	**Links to additional resources:**
+	**추가 자료:**
 	- `F1TENTH Simulator Repo <https://github.com/f1tenth/f110_ros/tree/master/f110_simulator>`_

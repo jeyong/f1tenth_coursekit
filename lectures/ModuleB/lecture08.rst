@@ -5,7 +5,7 @@ Lecture 8 - Race 1
 ===========================================================================
 
 **Overview:** 
-	First race of the semester!! See :ref:`Race 1 <doc_race1>` for more information on how to setup and evaluate the race.
+	처음 레이싱! 레이싱 관련 설정 및 방법을 :ref:`Race 1 <doc_race1>` 참고
 
 .. image:: img/car03.gif
 	:align: center
@@ -14,8 +14,8 @@ Lecture 8 - Race 1
 
 ..
 	**Topics Covered:**
-		-	Why use a simulator?
-		-	How to install and use the F1TENTH simulator
+	    -	시뮬레이터를 사용하는 이유?
+	    -	시뮬레이터 설치 및 사용 방법	
 
 	**Slides:**
 
@@ -30,5 +30,5 @@ Lecture 8 - Race 1
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-	**Links to additional resources:**
+	**추가 자료:**
 		- `F1TENTH Simulator Repo <https://github.com/f1tenth/f110_ros/tree/master/f110_simulator>`_

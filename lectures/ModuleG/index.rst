@@ -1,9 +1,9 @@
 .. _doc_moduleG:
 
 
-Module G: F1TENTH Grand Prix!!
+Module G: 그랑프리!!
 =======================================
-The last module is when students showcase their projects and the course culminates in the :ref:`Final Race - Race 3 <doc_race3>`. 
+마지막으로 학생들이 자신의 프로젝트 결과를 보여주고 :ref:`Final Race - Race 3 <doc_race3>` 를 통해 끝내도록 한다.
 
 
 .. toctree::
