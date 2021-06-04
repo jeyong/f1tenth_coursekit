@@ -4,23 +4,23 @@
 Lab 3 - Wall Following
 =======================
 
-.. tip:: Before starting this lab, review :ref:`Lecture 4 <doc_lecture04>` to ensure you are familiar with the material.
+.. tip:: 이번 실습을 진행하기 전에, :ref:`Lecture 4 <doc_lecture04>` 을 보고 관련 자료에 익숙해져야 한다.
 
-| **Goals:**
-| In this lab, you will implement a PID (proportional integral derivative) controller to make the car drive parallel to the walls of a corridor at a fixed distance. At a high level, you will accomplish this by taking laser scan distances from the Hokuyo LiDAR, computing the required steering angle and speed (drive parameters), an publishing these to the VESC to drive the car. 
+| **목표:**
+| 이번 실습에서 PID 제어기를 구현해서 고정 거리로 복도의 벽에 평형해서 차량을 운행한다. Hokuyo LiDAR로 laser scan 거리 수집, 필요한 조향 각도, 속도(drive 파라미터)를 계산항 이를 VESC에 publish하여 차량을 운행한다.
 
-| **Learning Outcomes:**
-| The following fundamentals should be understood by the students upon completion of this lab:
+| **학습 결과물:**
+| 다음 기본 내용들은 이 학습을 완료하기 위해서 이해가 필요하다.:
 
-	* PID controllers
-	* Driving the car autonomously via Wall Following
+	* PID 제어기
+	* 벽을 따라 자동을 차량 운행
 
-**Required Skills:** ROS, Python/C++
+**필요 기술:** ROS, Python/C++
 
-**Allotted Time:** 1 Week
+**할당 시간:** 1 Week
 
 | **Repository:** `Github Repository <https://github.com/f1tenth/f1tenth_labs/tree/master/lab3>`_ 
-|	The repository contains the latex source files as well as any skeleton code. Compile the latex source files to view the most up to date handout.
+|	이 repo에는 skeleton 코드와 latex source 파일을 포함하고 있다. latex 소스 파일을 컴파일해서 최신 내용을 확인하자.
 
 .. raw:: html
 

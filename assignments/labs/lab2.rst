@@ -1,26 +1,26 @@
 .. _doc_lab2:
 
 
-Lab 2 - Automatic Emergency Braking
+Lab 2 - 자동 긴급 제동(Automatic Emergency Braking)
 ======================================
-.. tip:: Before starting this lab, review :ref:`Lecture 2 <doc_lecture02>` to ensure you are familiar with the material.
+.. tip:: 이번 실습을 시작하기 전에, :ref:`Lecture 2 <doc_lecture02>` 를 보고 관련 자료를 숙지하자.
 
-| **Goals:**
-| The goal of this lab is to develop a safety node for the race cars that will stop the car from collision when travelling at higher velocities. We will implement Time to Collision using the LaserScan message in the simulator. 
+| **목표:**
+| 이번 실습의 목표는 레이싱 카를 위한 안전기능 node를 개발하는 것이다. 이 기능은 빠른 속도로 주행할때 충돌할꺼 같으면 차량을 멈추는 것이다. 시뮬레이터에서 LaserScan 메시지를 사용해서 Collision에 대한 time을 구현하는 것이다.
 
-| **Learning Outcomes:**
-| The following fundamentals should be understood by the students upon completion of this lab:
+| **학습 결과:**
+| 다음 기본들은 이 실습을 완료하기 위해서 이해해야만 하는 것들이다.:
 
-	* Using the LaserScan message in ROS
+	* ROS에서 LaserScan 메시지 사용하기
 	* Time to Collision (TTC)
 	* Safety critical systems
 
-**Required Skills:** Basics of ROS from Lab 1, Python or C++ (or at least some programming experience)
+**요구 기술:** Lab 1에서 ROS 기본, Python 혹은 C++ (프로그래밍 경험)
 
-**Allotted Time:** 1 week
+**할당 시간:** 1 week
 
 | **Repository:** `Github Repository <https://github.com/f1tenth/f1tenth_labs/tree/master/lab2>`_ 
-|	The repository contains the latex source files as well as any skeleton code. Compile the latex source files to view the most up to date handout.
+|	이 repo에는 skeleton 코드와 latex source 파일을 포함하고 있다. latex 소스 파일을 컴파일해서 최신 내용을 확인하자.
 
 
 .. raw:: html
