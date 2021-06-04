@@ -7,28 +7,28 @@ Lab 7 - Motion Planning (RRT)
 .. tip:: Before starting this lab, review :ref:`Lecture 14 <doc_lecture14>` to ensure you are familiar with the material.
 
 | **Goals:**
-| The goal of this lab is to provide you with tools that will help you in a head-to-head race on a race track. After finishing this lab, your car should be able to do something like `this <https://www.youtube.com/watch?v=llHCRqwIllM>`_.
+| 이번 실습에서는 레이싱 트렉에서 직접 레이싱을 하는데 필요한 도구를 제공한다. 이번 실습을 마치면 `this <https://www.youtube.com/watch?v=llHCRqwIllM>`_ 처럼 할 수 있다.
 
-| **Learning Outcomes:**
-| The following fundamentals should be understood by the students upon completion of this lab:
+| **학습 결과물:**
+| 이번 실습을 통해 다음과 같은 기본을 익히게 된다.:
 
-	* Motion Planning basic concepts.
+	* Motion Planning 기본 개념
 
-		* Configuration space vs. Workspace: you should understand the difference between configuration space and workspace, and the advantages and disadvantages of planning in each of them.
-		* Free space vs. Obstacle space: you should understand the difference between free space and obstacle space.
-		* Occupancy grids and Costmaps: you should understand what occupancy grids and costmaps are, how to use them, and how to create them.
+		* Configuration space vs. Workspace: configuration space와 workspace의 차이점을 이해해야만 한다. 그리고 각 planning의 장단점을 알아야만 한다.
+		* Free space vs. Obstacle space: free space와 obstacle space의 차이점을 이해해야만 한다.
+		* Occupancy grids 와 Costmaps: occupancy grids와 costmaps를 이해해야만 하고 사용 방법과 생성방법을 이해해야만 한다.
 
-	* Motion Planning algorithms. You should understand the basic ideas of these following planning algorithms, their advantages and disadvantages, and when to use them.
+	* Motion Planning 알고리즘. 다음 planning 알고리즘들의 장단점 그리고 사용 방법에 대해서 알아야만 한다.
 
-		* Grid-based search: Dijkstra’s, A*, and their variants
-		* Sampling based algorithms: RRT and its variants
+		* Grid-based search: Dijkstra’s, A*, 그리고 변형들
+		* Sampling based algorithms: RRT과 그 변형들
 
-**Required Skills:** ROS, Python/C++
+**요구 기술:** ROS, Python/C++
 
-**Allotted Time:** 1.5 week
+**할당 시간:** 1.5 week
 
 | **Repository:** `Github Repository <https://github.com/f1tenth/f1tenth_labs/tree/master/lab7>`_ 
-|	The repository contains the latex source files as well as any skeleton code. Compile the latex source files to view the most up to date handout.
+|	이 repo에는 skeleton 코드와 latex source 파일을 포함하고 있다. latex 소스 파일을 컴파일해서 최신 내용을 확인하자.
 
 .. raw:: html
 

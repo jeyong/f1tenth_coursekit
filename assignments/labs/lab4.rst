@@ -14,9 +14,9 @@ Lab 4 - Follow the Gap
 
 	* 장애물 회피를 위한 Reactive methods
 
-**Required Skills:** ROS, Python/C++
+**요구 기술:** ROS, Python/C++
 
-**Allotted Time:** 1 week
+**할당 시간:** 1 week
 
 | **Repository:** `Github Repository <https://github.com/f1tenth/f1tenth_labs/tree/master/lab4>`_ 
 |	이 repo에는 skeleton 코드와 latex source 파일을 포함하고 있다. latex 소스 파일을 컴파일해서 최신 내용을 확인하자.

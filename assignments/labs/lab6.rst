@@ -3,24 +3,24 @@
 
 Lab 6 - Pure Pursuit
 ======================
-.. tip:: Before starting this lab, review :ref:`Lecture 13 <doc_lecture13>` to ensure you are familiar with the material.
+.. tip:: 이번 실습전에 :ref:`Lecture 13 <doc_lecture13>` 에 대한 지식이 있어야 한다.
 
 | **Goals:**
-| The objective of this lab is to give you working experience with a powerful SLAM package, Cartographer, and with a basic yet well-behaved trajectory planner: the Pure Pursuit algorithm.
+| 이번 실습의 목표는 SLAM package인 Cartographer와 기본적이지만 잘 동작하는 trajectory planner에 대한 경험을 제공한다. : Pure Pursuit 알고리즘
 
-| **Learning Outcomes:**
-| The following fundamental should be understood by the students upon completion of this lab:
+| **학습 결과물:**
+| 이번 실습을 통해 다음과 같은 기본을 익히게 된다.:
 
 	* SLAM
 	* Cartographer
 	* Pure Pursuit algorithm
 
-**Required Skills:** ROS, Python/C++
+**요구 기술:** ROS, Python/C++
 
-**Allotted Time:** 1.5 week
+**할당 시간:** 1.5 week
 
 | **Repository:** `Github Repository <https://github.com/f1tenth/f1tenth_labs/tree/master/lab6>`_ 
-|	The repository contains the latex source files as well as any skeleton code. Compile the latex source files to view the most up to date handout.
+|	이 repo에는 skeleton 코드와 latex source 파일을 포함하고 있다. latex 소스 파일을 컴파일해서 최신 내용을 확인하자.
 
 .. raw:: html
 

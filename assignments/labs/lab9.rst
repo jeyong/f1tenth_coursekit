@@ -3,25 +3,25 @@
 
 Lab 9 - Robot Ethics
 =================================
-.. note:: This is a **INDIVIDUAL** assignment.
+.. note:: **개별** 과제
 
-.. tip:: Be prepared for the dicussion to come in :ref:`Lecture 22 <doc_lecture22>`
+.. tip:: :ref:`Lecture 22 <doc_lecture22>`
 
 | **Goals:**
-| As engineers, we design systems to have a certain function: move parts in a warehouse, interpret and implement a surgeon’s hand movements, or drive passengers around. Aside from functionality, we also design safety, security and reliability into our systems. With autonomous systems, we will be asked to design *ethics* into our systems, since they will share the world with us and make decisions autonomously, and some of these decisions are bound to involve ethical questions. How can we design and program an autonomous system that is ethical? Indeed, what does it mean for an autonomous system to be ethical? Or even, just responsible for its actions? Are there certain autonomous systems that simply cannot be ethical? Moreover, when speaking about designing ethical systems, *whose ethics are we talking about*?
+| 엔지니어로서 어떤 기능을 가지는 시스템을 설계한다: 창고에서 부품을 옮기고 외과 의사의 손의 움직임을 이해하고 구현하거나 승객들 주위를 돌아다닌다던가. 기능적인 면 이외에 안전, 보안, 신뢰성에 대해서도 고려해야 한다. 자동화 시스템에서 우리는 시스템의 *ethics* 을 설계해야한다. 왜냐하면 우리와 세상을 공유하며 자동으로 의사결정을 내리기 때문이다. 이런 결정 중에 일부는 도덕적인 문제와 연관되어 있기 때문이다. ethical이라는 자동화 시스템을 설계하고 프로그램할 수 있을까? 실제로 자동화 시스템이 ethical해야한다는 말은 무슨 의미일까? 그냥 동작에 대한 반응은 아닐까? 더 나가자면 ethical 시스템을 설계에 대해서 이야기 할때 우리가 말하는 ethics는 무엇일까?
 
-| **Learning Outcomes:**
-| This assignment asks us to discuss some of the ethical considerations inherent in the design of autonomous systems generally, not just self-driving cars. It is divided into three parts, which ask the following:
+| **학습 결과:**
+| 이 과제에서 단순한 자동 주행 차량이 아니라 일반적인 자동화 시스템의 설계에서 ethic을 고려해야하는 부분에 대해서 논의해 보자. 다음과 같이 3개 부분으로 나눠보자:
 
-	#. Who or what is morally responsible for the decisions made by an autonomous system? 
-	#. How can responsibility be programmed?
-	#. How do context and function affect the question of designing ethical behavior?
+	#. 자동화 시스템에서 내리 결정에 대해서 누가 무엇이 도덕적인 책임을 져야할까?
+	#. 프로그램되어야 하는 책임은 무엇일까?
+	#. 도덕적 행위를 설계에 영향을 미치는 context와 기능은?
 
 
-**Allotted Time:** 1.5 week
+**할당 시간:** 1.5 week
 
 | **Repository:** `Github Repository <https://github.com/f1tenth/f1tenth_labs/tree/master/lab9/handout>`_ 
-|	The repository contains the latex source files as well as any skeleton code. Compile the latex source files to view the most up to date handout.
+|	이 repo에는 skeleton 코드와 latex source 파일을 포함하고 있다. latex 소스 파일을 컴파일해서 최신 내용을 확인하자.
 
 .. raw:: html
 

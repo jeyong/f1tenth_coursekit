@@ -4,13 +4,13 @@
 Races
 ==================
 
-There are 3 races:
+3가지 레이싱:
 
-#. **Race 1** tests the students' application of *reactive methods*.
-#. **Race 2** tests the students' application of *pure pursuit* and *map-based* methods.
-#. **Race 3** culminates to head to head racing with another team's car.
+#. **Race 1** *reactive methods* 테스트
+#. **Race 2** *pure pursuit* 와 *map-based* 테스트
+#. **Race 3** 다른 차량과 함께 레이싱
 
-The first two races are timed trials. There are time brackets that correspond to grade brackets.
+앞에 2개 레이싱은 시간 제한이 있다.
 
 .. image:: img/race01.gif
    :align: center 
