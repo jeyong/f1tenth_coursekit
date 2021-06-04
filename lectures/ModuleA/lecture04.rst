@@ -4,19 +4,18 @@
 Lecture 4 - Laplace Domain Dynamics & PID
 ===========================================
 **Overview:** 
-	We command the 
+	vesc에 PID 제어 명령을 내리며 rpm 명령을 모터의 전류 출력으로 변환한다.(rpm -> 전류 -> 모터 제어) 명령으로 준 RPM에 대한 제대로된 전류 값을 얻기 위해서 pid를 사용한다.
 
-	pid control on vesc, converts rpm requirement to current output for the motor, uses pid to get right current, we give rpm
 
-1) vesc tuning
-2) wall following (error is distance to wall, left wall right wall wahteves, we control steering angle) - lec
+1) vesc 튜닝
+2) 벽 따라가기 (error는 벽까지의 거리(left 이나 right), 운전ㄷ 각도 제어) - lec
 
 **Topics Covered:**
 	-	Laplace Domain Dynamics
 	-	PID Control
 	-	testing
 
-**Associated Assignment:** 
+**관련 숙제:** 
 	* :ref:`Lab 3: Wall Following <doc_lab3>`
 
 **Slides:**
@@ -32,5 +31,5 @@ Lecture 4 - Laplace Domain Dynamics & PID
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-**Links to additional resources:**
+**추가 자료:**
 	- `Ziegler-Nichols method of tuning a PID controller <https://en.wikipedia.org/wiki/Ziegler%E2%80%93Nichols_method>`_

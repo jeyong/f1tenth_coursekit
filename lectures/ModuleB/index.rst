@@ -3,7 +3,7 @@
 
 Module B: Reactive Methods
 ========================================
-The second module goes over reactive method and ends with :ref:`Race 1 <doc_race1>`. 
+두번재 모듈에서 reactive method를 다루고 마지막으로 :ref:`Race 1 <doc_race1>` 를 해보자.
 
 
 .. toctree::

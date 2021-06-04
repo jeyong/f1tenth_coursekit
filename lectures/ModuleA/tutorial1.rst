@@ -1,15 +1,15 @@
 .. _doc_tutorial01:
 
 
-Tutorial 1: Using the F1TENTH Simulator
+Tutorial 1: F1TENTH 시뮬레이션
 ==================================================
 
 **Overview:** 
-	This lecture is more of a short tutorial than a traditional lecture. You will learn how to install the use the simulator on your machine. 
+	기존 강의보다 훨씬 짧은 자료이다. 시뮬레이션 설치 방법에대해서 알아보자.
 
 **Topics Covered:**
-	-	Why use a simulator?
-	-	How to install and use the F1TENTH simulator
+	-	왜 시뮬레이션을 사용해야할까?
+	-	시뮬레이션 설치 및 사용 방법
 
 **Slides:**
 
@@ -25,6 +25,6 @@ Tutorial 1: Using the F1TENTH Simulator
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-**Links to additional resources:**
+**관련 자료:**
 	- `F1TENTH Simulator Repo <https://github.com/f1tenth/f1tenth_simulator>`_
 	- `How to install the simulator <https://f1tenth.readthedocs.io/en/stable/going_forward/simulator/index.html>`_

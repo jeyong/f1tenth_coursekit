@@ -1,27 +1,27 @@
 .. _doc_lecture02:
 
 
-Lecture 2 - Automatic Emergency Braking
+Lecture 2 - 자동 긴급 브레이크
 ==========================================
 
 **Overview:** 
-	This lecture goes over the importance of safety when working with autonomous systems. When is a system "safe enough" to deploy? In this lecture, you will learn about how Automatic Emergency Braking (AEB) works in today's vehicle as well as methods for gathering information about the outside world in order for the vehicle to respond to it appropriately. Once the vehicle has acquired real world data and reacts to its situation accordingly, how do we measure how "safe" the reaction is?
+	자율 시스템이 동작할때 안전의 중요성에 대해서 알아본다. 시합에 나갈 정도로 충분히 안전한가? 이 장에서는 차량이 외부의 정보를 적절히 수집하고 AEB(자동 긴급 브레이크)이 어떻게 동작하는지에 대해서 알아보자. 일단 차량이 실세계 데이터를 얻게 되면 상황에 따라서 반응하는데 반응이 얼마나 안전한가를 어떻게 측정할 수 있을까?
 
 **Topics Covered:**
 	-	Autonomatic Emergency Braking (AEB)
-	-	Range Sensors for Autonomous Vehicles
-	-	Working with Laser Scan Data
-	-	Notions of Correctness
+	-	자동 주행을 위한 Range Sensors
+	-	Laser Scan 데이터로 작업하기
+	-	'보정(correctness)' 개념
 
 
-**Associated Tutorial:**
+**관련 튜터리얼:**
 	.. toctree::
 	   :maxdepth: 1
 	   :name: sec-tutorial2
 
 	   tutorial2
 
-**Associated Assignment:** 
+**관련 숙제:** 
 	* :ref:`Lab 2: Introduction to ROS <doc_lab2>`
 
 **Slides:**

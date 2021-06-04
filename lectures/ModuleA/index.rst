@@ -1,9 +1,9 @@
 .. _doc_moduleA:
 
 
-Module A: Foundations of F1TENTH
+Module A: F1TENTH 기초
 ========================================
-The first module goes over the some of the basics required to understand and control the F1TENTH Autonomous Vehicle System. 
+첫번째 모듈은 차량을 이해하고 제어하는데 필요한 기본을 다룬다.
 
 
 .. toctree::

@@ -1,16 +1,16 @@
 .. _doc_tutorial2:
 
-Tutorial 2 - Working with the F1TENTH Simulator
+Tutorial 2 - 시뮬레이터로 동작
 ==================================================
 
-.. note:: You should have already installed the F1TENTH simulator from :ref:`Tutorial 1 <doc_tutorial01>`.
+.. note:: :ref:`Tutorial 1 <doc_tutorial01>` 를 참고하여 시뮬레이터 설치가 완료된 상태로 진행한다.
 
 **Overview:** 
-	In :ref:`Lecture 2 <doc_lecture02>`, we learned how to use the F1TENTH simulator by driving a car around in the virtual world. Now, we will learn how the simulator is setup in ROS and add cool planners in the sim.
+	In :ref:`Lecture 2 <doc_lecture02>`, 가상 세계에서 차를 운전하면서 시뮬레이션을 사용하는 방법에 대해서 배워봤다. 이제 ROS에서 시뮬레이터를 설정하고 멋진 planner를 시뮬레이션 추가해 보는 것을 배워보자.
 
 **Topics Covered:**
-	-	Setup of ROS nodes in the simulator
-	-	Adding and combining motion planners
+	-	시뮬레이터에서 ROS node 설정
+	-	motion planner를 추가하고 결합하기
 
 **Slides:**
 
@@ -27,7 +27,7 @@ Tutorial 2 - Working with the F1TENTH Simulator
 
 
 
-**Links to additional resources:**
+**추가 자료:**
 	- `F1TENTH Simulator Repo <https://github.com/f1tenth/f1tenth_labs/tree/master/f110_simulator>`_
 	- `How to install the simulator <https://f1tenth.readthedocs.io/en/stable/going_forward/simulation/index.html>`_
 	- `ROS Tutorials <http://wiki.ros.org/ROS/Tutorials>`_

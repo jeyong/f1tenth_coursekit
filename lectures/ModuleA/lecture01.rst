@@ -1,25 +1,25 @@
 .. _doc_lecture1:
 
 
-Lecture 1 - Introduction to F1TENTH Autonomous Vehicle
+Lecture 1 - 소개
 =========================================================
 
 **Overview:** 
-	This lecture is an introduction to the F1TENTH Autonomous Vehicle Community. We go over course logistics (grading, policies, syllabus), course support (teaching team, piazza), and expectations. We will end the lecture with a brief introduction to the world of autonomous racing. By the end of this lecture, you will have gotten your first taste of the exciting world of autonomous systems.
+	커뮤니티에 대해서 알아본다. 마지막에는 자율주행 시스템이 얼마나 재밌는지 맛보는 기회가 될 것이다.
 
 **Topics Covered:**
 	-	Course Logistics
 	-	Course Support
 	-	Intro to Autonomous Systems
 
-**Associated Tutorial:**
+**관련 튜토리얼:**
 	.. toctree::
 	   :maxdepth: 1
 	   :name: sec-tutorial1
 
 	   tutorial1
 
-**Associated Assignment:** 
+**관련 숙제:** 
 	* :ref:`Lab 1: Introduction to ROS <doc_lab1>`
 
 **Slides:**
@@ -38,6 +38,6 @@ Lecture 1 - Introduction to F1TENTH Autonomous Vehicle
 
 
 
-**Links to additional resources:**
+**기타 참고자료:**
 	- `F1TENTH Main Website <http://f1tenth.org/>`_
 	- `Support Forum <http://f1tenth.org/forum.html>`_
